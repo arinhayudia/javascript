@@ -1,0 +1,23 @@
+table {
+	border-collapse:collapse;
+}
+
+td {
+	background-color: pink;
+	border: 3px solid black;
+	font-family: Comic Sans MS;
+	font-size:80px;
+	color:solid black;
+	border-radius: 10px 10px 10px 10px;
+}
+
+button {
+	background-color: pink;
+	border: 1px solid black;
+	font-family: Comic Sans MS;
+	font-size: 20px;
+}
+
+h1, p, span {
+	font-family: Comic Sans MS;
+}
